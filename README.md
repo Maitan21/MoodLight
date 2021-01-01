@@ -2,4 +2,5 @@
 Mood Light with arduino
 
 ## Library
-- FASTLED
+- Adafruit_NeoPixel.h
+- SoftwareSerial.h
